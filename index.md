@@ -16,7 +16,7 @@ DEVReference is a small, highly reliable, DDoS-protected developer reference web
 
 ---
 
-## We <3 people who code
+## We ❤ people who code
 
 ### For developers, by developers
 
