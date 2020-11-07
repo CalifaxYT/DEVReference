@@ -28,6 +28,10 @@ DEVReference is of great help for anyone that codes. We help you get answers to 
 
 DEVReference is &copy; 2019-{{ "now" | date: "%Y" }} by [B. T.](https://califax.host).
 
+### Donate to me and the project
+
+Donate BTC to me on the following address: [3N1YW4j3CkYHbnLHVwe9mCFU3VcG4xgrWs](bitcoin:3N1YW4j3CkYHbnLHVwe9mCFU3VcG4xgrWs).
+
 ### License
 
 DEVReference is distributed under the [BSD 3-Clause License](https://github.com/CalifaxYT/DEVReference/tree/master/LICENSE.md).
