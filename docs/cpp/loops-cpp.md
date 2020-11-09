@@ -69,6 +69,7 @@ NOTE 2: The body of the do loop is executed at least once.
 the while loop, for loop allows declaration of explicit counter. Although for loop can be written as
 a while loop, it is considered more practical to use for when the number of iterations are known in
 advance. The for loop is a pretest loop.
+```
 for (init; condition; update)
 {
 statement<sub>1</sub>;
