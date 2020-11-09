@@ -17,7 +17,9 @@ These preprocessor directives extend only across a single line of code. As soon 
 
 To define preprocessor macros we can use #define. Its syntax is:
 
+```cpp
 #define identifier replacement
+```
 
 When the preprocessor encounters this directive, it replaces any occurrence of identifier in the rest of the code by replacement. This replacement can be an expression, a statement, a block or simply anything. The preprocessor does not understand C++ proper, it simply replaces any occurrence of identifier by replacement.
 ```cpp
