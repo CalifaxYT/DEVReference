@@ -1,6 +1,8 @@
 ---
 layout: default
 title: What are pragma functions
+parent: Pragma Functions
+nav_order: 2
 ---
 
 # What are pragma functions
