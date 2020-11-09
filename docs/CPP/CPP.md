@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [C++]
+title: C++
 nav_order: 4
 has_children: true
 permalink: docs/CPP
