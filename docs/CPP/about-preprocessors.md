@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preprocessor Directives
-parent: cpp
+parent: C++
 ---
 
 # Preprocessor Directives
