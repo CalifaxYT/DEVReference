@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LOOPS | while..do & more
+title: LOOPS | While..do & more
 parent: C++
 nav_order: 5
 ---
@@ -14,10 +14,10 @@ condition is tested before each iteration).
 ```cpp
 while (condition)
 {
-statement<sub>1</sub>;
-statement<sub>2</sub>;
+statement_1;
+statement_2;
 ...
-statement<sub>n</sub>;
+statement_n;
 }
 ```
 
@@ -42,10 +42,10 @@ which means that the loop condition is after the body of the loop is executed.
 ```cpp
 do
 {
-statement<sub>1</sub>;
-statement<sub>2</sub>;
+statement_1;
+statement_2;
 ...
-statement<sub>n</sub>;
+statement_n;
 }while(condition);
 ```
 
@@ -69,13 +69,13 @@ NOTE 2: The body of the do loop is executed at least once.
 the while loop, for loop allows declaration of explicit counter. Although for loop can be written as
 a while loop, it is considered more practical to use for when the number of iterations are known in
 advance. The for loop is a pretest loop.
-```
+```cpp
 for (init; condition; update)
 {
-statement<sub>1</sub>;
-statement<sub>2</sub>;
+statement_1;
+statement_2;
 ...
-statement<sub>n</sub>;
+statement_n;
 }while(condition);
 ```
 
