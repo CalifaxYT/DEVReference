@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LOOPS | while..do & more
+title: LOOPS // while..do & more
 parent: C++
 nav_order: 5
 ---
