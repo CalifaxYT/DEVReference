@@ -1,7 +1,7 @@
 ---
 layout: default
 title: C++
-nav_order: 4
+nav_order: 2
 has_children: true
 permalink: docs/CPP
 ---
@@ -106,5 +106,3 @@ Now that all the necessary theory has been covered, now it is possible to explai
 
 *   <u>...has incredible library support.</u>  
     A search for "library" on the popular project-management website [SourceForge](http://www.sourceforge.net) will yield over 3000 results for C++ libraries. A link to the results of the search may be found [here](http://sourceforge.net/directory/language:C%2B%2B/?q=library).  
-
-Written by [Albatross](/user/N17f92yv/).  
