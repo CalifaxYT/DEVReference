@@ -1,6 +1,6 @@
 title: DEVReference
 description: A small, highly reliable, DDoS-protected developer reference website
-baseurl: "/"
+baseurl: ""
 url: "https://devreference.pw"
 remote_theme: pmarsceill/just-the-docs
 
