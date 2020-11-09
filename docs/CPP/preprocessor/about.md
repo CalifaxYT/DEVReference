@@ -2,6 +2,7 @@
 layout: default
 title: Preprocessor Directives
 permalink: docs/CPP/preprocessor
+parent: CPP
 ---
 
 # Preprocessor Directives
