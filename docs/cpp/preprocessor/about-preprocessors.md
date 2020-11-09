@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preprocessor Directives
-parent: C++
+parent: C++ Pragmas
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C++
+title: C++ Pragmas
 nav_order: 3
 has_children: true
 permalink: docs/cpp
@@ -24,7 +24,7 @@ Depending on the type of project, there are many factors that have to be conside
     Finally, **just-in-time compiled** (or JIT-compiled) languages are languages that are quickly compiled when programs written in them need to be run (usually with very little optimization), offering a balance between performance and portability.  
 
 *   <u>High or Low Level</u> 
-Level, in this case, refers to how much the nature of the language reflects the underlying system. In other words, a programming language's level refers to how similar the language is to a computer's native language. The higher the level, the _less_ similar it is.  
+    Level, in this case, refers to how much the nature of the language reflects the underlying system. In other words, a programming language's level refers to how similar the language is to a computer's native language. The higher the level, the _less_ similar it is.  
     A **low-level language** is generally quite similar to machine code, and thus is more suitable for programs like device drivers or very high performance programs that really need access to the hardware. Generally, the term is reserved for machine code itself and assembly languages, though many languages offer low-level elements. Since a low-level language is subject to all the nuances of the hardware it's accessing, however, a program written in a low-level language is generally difficult to port to other platforms. Low level languages are practically never interpreted, as this generally defeats the purpose.  
     A **high-level language** focuses more on concepts that are easy to understand by the human mind, such as objects or mathematical functions. A high-level language usually is easier to understand than a low-level language, and it usually takes less time to develop a program in a high-level language than it does in a low-level language. As a trade-off one generally needs to sacrifice some degree of control over what the resulting program actually does. It is not, however, impossible to mix high-level and low-level functionality in a language.  
 
