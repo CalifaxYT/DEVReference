@@ -1,17 +1,11 @@
 ---
 layout: default
 title: Preprocessor Directives
-nav_order: 1
 has_children: true
 permalink: docs/CPP/preprocessor
 ---
 
 # Preprocessor Directives
-{: .no_toc }
-
-{: .fs-6 .fw-300 }
-
-# A Brief Description
 
 ## An Overview of Preprocessor directives (a.k.a pragmas)
 
