@@ -1,7 +1,7 @@
 ---
 layout: default
 title: String Concatenation
-parent: C++ Operators
+parent: C++
 nav_order: 1
 ---
 

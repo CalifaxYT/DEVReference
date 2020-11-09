@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C++ Pragmas
+title: C++
 nav_order: 3
 has_children: true
 permalink: docs/cpp

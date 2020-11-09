@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preprocessor CHAR_TO_INT()
-parent: C++ Pragmas
+parent: C++
 nav_order: 4
 ---
 
