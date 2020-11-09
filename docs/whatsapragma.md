@@ -1,7 +1,6 @@
 ---
 layout: default
 title: What are pragma functions
-parent: Pragma Functions
 ---
 
 # What are pragma functions
