@@ -1,11 +1,11 @@
 ---
 layout: default
-title: String Concatenation
+title: [STR] String Concatenation
 parent: C++
-nav_order: 1
+nav_order: 5
 ---
 
-# Preprocessor ABS()
+# String Concatenation in C++
 
 ## A quick rundown of string concatenation in C++
 
