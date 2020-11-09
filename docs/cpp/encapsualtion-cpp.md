@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [MISC] Encapsulation in C++
+title: MISC | Encapsulation in C++
 parent: C++
 nav_order: 5
 ---

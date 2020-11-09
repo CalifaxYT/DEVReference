@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [PRAG] Preprocessor Directives
+title: PRAG | Preprocessor Directives
 parent: C++
 nav_order: 1
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [MATH] Adding numbers of type "double"
+title: MATH | Adding numbers of type "double"
 parent: C++
 nav_order: 5
 ---

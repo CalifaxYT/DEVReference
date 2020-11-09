@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [PRAG] Preprocessor CHAR_TO_INT()
+title: PRAG | Preprocessor CHAR_TO_INT()
 parent: C++
 nav_order: 4
 ---

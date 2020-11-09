@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [STR] String Concatenation
+title: STR | String Concatenation
 parent: C++
 nav_order: 5
 ---
