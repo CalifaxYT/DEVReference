@@ -23,7 +23,8 @@ Depending on the type of project, there are many factors that have to be conside
     **Interpreted languages** are read by a program called an interpreter and are executed by that program. While they are as portable as their interpreter and have no long compile times, interpreted languages are usually _much_ slower than an equivalent compiled program.  
     Finally, **just-in-time compiled** (or JIT-compiled) languages are languages that are quickly compiled when programs written in them need to be run (usually with very little optimization), offering a balance between performance and portability.  
 
-*   <u>High or Low Level</u> Level, in this case, refers to how much the nature of the language reflects the underlying system. In other words, a programming language's level refers to how similar the language is to a computer's native language. The higher the level, the _less_ similar it is.  
+*   <u>High or Low Level</u> 
+Level, in this case, refers to how much the nature of the language reflects the underlying system. In other words, a programming language's level refers to how similar the language is to a computer's native language. The higher the level, the _less_ similar it is.  
     A **low-level language** is generally quite similar to machine code, and thus is more suitable for programs like device drivers or very high performance programs that really need access to the hardware. Generally, the term is reserved for machine code itself and assembly languages, though many languages offer low-level elements. Since a low-level language is subject to all the nuances of the hardware it's accessing, however, a program written in a low-level language is generally difficult to port to other platforms. Low level languages are practically never interpreted, as this generally defeats the purpose.  
     A **high-level language** focuses more on concepts that are easy to understand by the human mind, such as objects or mathematical functions. A high-level language usually is easier to understand than a low-level language, and it usually takes less time to develop a program in a high-level language than it does in a low-level language. As a trade-off one generally needs to sacrifice some degree of control over what the resulting program actually does. It is not, however, impossible to mix high-level and low-level functionality in a language.  
 
@@ -94,7 +95,7 @@ Now that all the necessary theory has been covered, now it is possible to explai
     C++ offers remarkable support for procedural, generic, and object-oriented programming paradigms, with many other paradigms being possible as well.  
 
 *   <u>...is _portable._</u>  
-    As one of the most frequently used languages in the world and as an open language, C++ has a wide range of [compilers](http://www2.research.att.com/~bs/compilers.html) that run on many different platforms that support it. Code that exclusively uses C++'s standard library will run on many platforms with few to no changes.  
+    As one of the most frequently used languages in the world and as an open language, C++ has a wide range of [compilers](https://en.wikipedia.org/wiki/Category:C%2B%2B_compilers) that run on many different platforms that support it. Code that exclusively uses C++'s standard library will run on many platforms with few to no changes.  
 
 *   <u>...is upwards compatible with C</u>  
     C++, being a language that directly builds off C, is compatible with almost all C code. C++ can use C libraries with few to no modifications of the libraries' code.  
