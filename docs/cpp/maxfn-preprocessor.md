@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRAG | Preprocessor MAX()
+title: PRAG | MAX()
 parent: C++
 nav_order: 2
 ---

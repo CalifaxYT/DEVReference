@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRAG | Preprocessor ABS()
+title: PRAG | ABS()
 parent: C++
 nav_order: 3
 ---
