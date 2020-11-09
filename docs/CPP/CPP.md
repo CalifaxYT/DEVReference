@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/CPP
 ---
 
-# [C++]
+# C++
 
 ## Preface
 
