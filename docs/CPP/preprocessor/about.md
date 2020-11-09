@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Preprocessor Directives
-has_children: true
 permalink: docs/CPP/preprocessor
 ---
 

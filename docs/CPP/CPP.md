@@ -7,11 +7,6 @@ permalink: docs/CPP
 ---
 
 # [C++]
-{: .no_toc }
-
-{: .fs-6 .fw-300 }
-
-# A Brief Description
 
 ## Preface
 
