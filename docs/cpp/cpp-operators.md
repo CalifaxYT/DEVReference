@@ -3,7 +3,7 @@ layout: default
 title: C++ Operators
 nav_order: 4
 has_children: true
-permalink: docs/cpp
+permalink: docs/cpp/operators
 ---
 
 # C++ Operators
